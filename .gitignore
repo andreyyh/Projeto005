@@ -13,4 +13,5 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content/Source/
-ProceduralNaturePack/
+Content/Megascans/
+Content/MSPresets/
